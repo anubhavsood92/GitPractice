@@ -21,6 +21,7 @@ public class Test2 {
 		Date d =  new Date();
 		System.out.println("Test 2 class m4 method "+d);
 		Thread.sleep(1000);
+		System.out.println("Anu");
 		
 	}
 
