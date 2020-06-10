@@ -19,6 +19,7 @@ public class Test1
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
 		System.out.println("m1 method");
+		System.out.println("m2 method");
 		driver.quit();
 		
 	}
