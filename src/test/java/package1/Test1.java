@@ -18,6 +18,7 @@ public class Test1
 		WebDriver driver =  new ChromeDriver();
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
+		System.out.println("m1 method");
 		driver.quit();
 		
 	}
